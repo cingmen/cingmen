@@ -1,42 +1,45 @@
 <div align="center">
 
-<!-- ASCII ART BANNER -->
+<!-- ASCII CAT BANNER -->
 ```
-  ██████╗██╗███╗   ██╗ ██████╗ ████████╗███╗   ███╗███████╗███╗   ██╗
- ██╔════╝██║████╗  ██║██╔════╝ ╚══██╔══╝████╗ ████║██╔════╝████╗  ██║
- ██║     ██║██╔██╗ ██║██║  ███╗   ██║   ██╔████╔██║█████╗  ██╔██╗ ██║
- ██║     ██║██║╚██╗██║██║   ██║   ██║   ██║╚██╔╝██║██╔══╝  ██║╚██╗██║
- ╚██████╗██║██║ ╚████║╚██████╔╝   ██║   ██║ ╚═╝ ██║███████╗██║ ╚████║
-  ╚═════╝╚═╝╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝
+   /\_/\      J O E S A V I T   D
+  ( o.o )     ─────────────────────────
+   > ^ <      codename: CINGMEN
 ```
 
-<h3><samp>Hi, I'm <b>Joesavit D</b> 👋</samp></h3>
+<em><b>"Mission log of a cat who ships code."</b></em>
 
-<em>"Crafting the web, one commit at a time."</em>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-stack+Explorer+%F0%9F%94%AD;HTML+Hacker+%26+LaTeX+Artisan+%F0%9F%93%84;Building+cool+things+since+2016+%E2%9A%A1)](https://github.com/cingmen)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39D353&center=true&vCenter=true&width=520&lines=Full-stack+Explorer+%F0%9F%94%AD;HTML+Hacker+%26+LaTeX+Artisan+%F0%9F%93%84;On+a+mission+since+2016+%F0%9F%90%88)](https://github.com/cingmen)
 
 </div>
 
 ---
 
-### 🧭 About Me
+### ╔═ MISSION FILE ═══════════════════════════╗
 
 ```yaml
-name: Joesavit D
-github: cingmen
-on_github_since: 2016
-currently:
-  - 🔭 building & experimenting with the web
-  - 🌱 learning something new every day
-  - 📄 typesetting beautiful CVs in LaTeX
-ask_me_about: [html, latex, side-projects, how-to-name-a-variable]
-fun_fact: "My very first repo is still alive — recursion into my own history works."
+codename:        CINGMEN
+agent:           Joesavit D
+active_since:    2016
+status:          🟢 ACTIVE — always shipping
+specialty:       [web, latex, side-quests]
+known_aliases:   [html-hacker, latex-artisan, snake-wrangler]
+fun_fact:        "My first repo is still alive. Nine lives, confirmed."
 ```
 
 ---
 
-### 🛠️ Tech I Play With
+### ╔═ ACTIVE OBJECTIVES ══════════════════════╗
+
+- [x] 🌐 Establish a home base on the web — `cingmen.github.io`
+- [x] 📄 Master the art of the CV — XeLaTeX template deployed
+- [x] 🐍 Tame the contribution snake *(see pet below)*
+- [ ] 🚀 Ship the next great side-project
+- [ ] 🌱 Learn something unreasonable, then use it anyway
+
+---
+
+### ╔═ ARSENAL ═════════════════════════════════╗
 
 <div align="center">
 
@@ -50,25 +53,32 @@ fun_fact: "My very first repo is still alive — recursion into my own history w
 
 ---
 
-### 🚀 Pinned Playground
+### ╔═ DEPLOYMENTS ═════════════════════════════╗
 
-| Project | What it is | |
+| Codename | Objective | Status |
 |---|---|---|
-| **[cingmen.github.io](https://github.com/cingmen/cingmen.github.io)** | My corner of the web, hand-crafted in HTML | ⭐ 1 |
-| **[cv-simple-cingmen](https://github.com/cingmen/cv-simple-cingmen)** | A clean CV template, typeset in XeLaTeX | 📄 |
+| **[cingmen.github.io](https://github.com/cingmen/cingmen.github.io)** | Home base, hand-crafted in HTML | ⭐ 1 · 🟢 live |
+| **[cv-simple-cingmen](https://github.com/cingmen/cv-simple-cingmen)** | CV template, typeset in XeLaTeX | 📄 · 🟢 stable |
 
 ---
 
-### 🐍 GitHub Snake (easter egg)
+### ╔═ PET SNAKE 🐍 ═════════════════════════════╗
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/cingmen/cingmen/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-<p><sub>This snake is real — a GitHub Action feeds it with my contribution grid. It starts moving once the workflow runs.</sub></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cingmen/cingmen/output/github-contribution-grid-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cingmen/cingmen/output/github-contribution-grid-snake.svg?v=2" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/cingmen/cingmen/output/github-contribution-grid-snake.svg?v=2" />
+</picture>
+
+<sub>fed daily by a GitHub Action · it eats my contribution grid 🟩</sub>
+
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### ╔═ TELEMETRY ═══════════════════════════════╗
 
 <div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=cingmen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
@@ -77,13 +87,14 @@ fun_fact: "My very first repo is still alive — recursion into my own history w
 
 ---
 
-### 📫 Reach Me
+### ╔═ TRANSMISSION ════════════════════════════╗
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-cingmen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cingmen)
 
-<sub>⭐️ From [cingmen](https://github.com/cingmen) — if you read this far, say hi with a ⭐ on [cingmen.github.io](https://github.com/cingmen/cingmen.github.io)!</sub>
+<sub>📡 open channel · if you read this far, star [cingmen.github.io](https://github.com/cingmen/cingmen.github.io) to signal receipt</sub>
 
 </div>
-<!-- README powered by curiosity & caffeine ☕ -->
+
+<!-- >> END OF FILE — cat out. 🐈 -->

@@ -18,12 +18,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snake game from GitHub contribution grid
+      - name: Generate neon snake from GitHub contribution grid
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: cingmen
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=neon-green&color_snake=#39d353&color_dots=#ebedf0,#9be9a8,#40c463,#2da44e,#1a7f37
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake to the output branch
