@@ -22,9 +22,8 @@
 
 - [ ] 🚀 ship proyek side-project berikutnya
 - [ ] 🌱 belajar hal random, terus dipakai juga
-
-    </td>
-    <td width="34%" valign="top">
+</td>
+<td width="34%" valign="top">
 
 <div align="center">
 
@@ -37,8 +36,7 @@
 warnanya ikut tema</sub>
 
 </div>
-
-    </td>
+</td>
   </tr>
 </table>
 
