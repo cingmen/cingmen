@@ -1,9 +1,9 @@
 <div align="center">
 
 ```
-   /\_/\      J O E S A V I T   D
-  ( o.o )     ─────────────────────────
-   > ^ <      codename: CINGMEN
+   /\_/\     J O E S A V I T   D
+  ( o.o )    codename: CINGMEN
+   > ^ <     web builder since 2016
 ```
 
 </div>
@@ -42,15 +42,6 @@ warnanya ikut tema</sub>
 
 ---
 
-### 📦 proyek
-
-| proyek | ceritanya |
-|---|---|
-| **[cingmen.github.io](https://github.com/cingmen/cingmen.github.io)** | markas, dibikin manual pakai HTML ⭐ |
-| **[cv-simple-cingmen](https://github.com/cingmen/cv-simple-cingmen)** | template CV, diketik pakai XeLaTeX 📄 |
-
----
-
 ### 📊 statistik
 
 <div align="center">
@@ -67,18 +58,6 @@ warnanya ikut tema</sub>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cingmen&theme=tokyonight&v=3" />
   <img height="130" alt="profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cingmen&theme=default&v=3" />
 </picture>
-
-</div>
-
----
-
-### 📡 kontak
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-cingmen-181717?style=flat&logo=github&logoColor=white)](https://github.com/cingmen)
-
-<sub>📡 channel-nya kebuka · kalau sampai sini, tinggalin ⭐ di [cingmen.github.io](https://github.com/cingmen/cingmen.github.io) ya</sub>
 
 </div>
 
