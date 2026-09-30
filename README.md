@@ -53,9 +53,12 @@
 
 <div align="center">
 
-![pixel cat](https://raw.githubusercontent.com/cingmen/cingmen/main/assets/pixel-cat.svg?v=1)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cingmen/cingmen/main/assets/pixel-cat.svg?v=2" />
+  <img alt="pixel cat" src="https://raw.githubusercontent.com/cingmen/cingmen/main/assets/pixel-cat.svg?v=2" />
+</picture>
 
-<sub>ekornya goyang sendiri · dihitamkan juga tetap terlihat · tanpa jasa eksternal</sub>
+<sub>ekornya goyang sendiri · warnanya menyesuaikan tema · tanpa jasa eksternal</sub>
 
 </div>
 
@@ -69,15 +72,33 @@
 ![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcingmen&query=%24.public_repos&label=repos&logo=github&style=for-the-badge&v=2)
 ![stars](https://img.shields.io/github/stars/cingmen?affiliations=OWNER&label=stars&style=for-the-badge&logo=github&v=1)
 
-![streak](https://streak-stats.demolab.com?user=cingmen&theme=tokyonight&hide_border=true&v=1)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=cingmen&theme=tokyonight&hide_border=true&v=2" />
+  <img alt="streak stats" src="https://streak-stats.demolab.com?user=cingmen&theme=default&hide_border=true&v=2" />
+</picture>
 
-![summary cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cingmen&theme=tokyonight&v=1)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cingmen&theme=tokyonight&v=2" />
+  <img alt="profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cingmen&theme=default&v=2" />
+</picture>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cingmen&theme=tokyonight&v=1" height="140" alt="repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cingmen&theme=tokyonight&v=1" height="140" alt="most commit language" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cingmen&theme=tokyonight&v=2" />
+  <img height="140" alt="repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cingmen&theme=default&v=2" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cingmen&theme=tokyonight&v=2" />
+  <img height="140" alt="most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cingmen&theme=default&v=2" />
+</picture>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cingmen&theme=tokyonight&v=1" height="140" alt="stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cingmen&theme=tokyonight&v=1" height="140" alt="productive time" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cingmen&theme=tokyonight&v=2" />
+  <img height="140" alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cingmen&theme=default&v=2" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cingmen&theme=tokyonight&v=2" />
+  <img height="140" alt="productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cingmen&theme=default&v=2" />
+</picture>
 
 </div>
 
