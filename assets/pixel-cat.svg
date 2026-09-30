@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="180" viewBox="0 0 220 180" role="img" aria-label="Sleepy pixel cat">
+  <!-- pixel cat: sitting, wagging tail, blinking, zZz floating. Pure SVG, theme-safe colors -->
+  <style>
+    .tail { animation: wag 1.6s steps(2, end) infinite; transform-origin: 168px 150px; }
+    @keyframes wag {
+      0%, 100% { transform: rotate(0deg); }
+      50%      { transform: rotate(-14deg); }
+    }
+    .eyes-open  { animation: blink 3.2s steps(1, end) infinite; }
+    .eyes-closed { animation: blink 3.2s steps(1, end) infinite reverse; opacity: 0; }
+    @keyframes blink {
+      0%, 92%   { opacity: 1; }
+      92.1%, 96% { opacity: 0; }
+      96.1%, 100% { opacity: 1; }
+    }
+    .eyes-closed { animation-name: blinkclosed; }
+    @keyframes blinkclosed {
+      0%, 92%   { opacity: 0; }
+      92.1%, 96% { opacity: 1; }
+      96.1%, 100% { opacity: 0; }
+    }
+    .z1 { animation: floatz 3.2s ease-in-out infinite; opacity: 0; }
+    .z2 { animation: floatz 3.2s ease-in-out 1.1s infinite; opacity: 0; }
+    .z3 { animation: floatz 3.2s ease-in-out 2.2s infinite; opacity: 0; }
+    @keyframes floatz {
+      0%   { transform: translate(0, 0); opacity: 0; }
+      20%  { opacity: 1; }
+      80%  { opacity: 0.9; }
+      100% { transform: translate(6px, -14px); opacity: 0; }
+    }
+  </style>
+
+  <!-- soft shadow -->
+  <ellipse cx="118" cy="166" rx="62" ry="8" fill="#9aa4b2" opacity="0.35"/>
+
+  <!-- tail (behind body) -->
+  <g class="tail" fill="#5b6472">
+    <rect x="160" y="132" width="14" height="14"/>
+    <rect x="174" y="122" width="14" height="14"/>
+    <rect x="186" y="112" width="14" height="14"/>
+    <rect x="186" y="98" width="14" height="14" fill="#8a93a3"/>
+  </g>
+
+  <!-- body -->
+  <g fill="#5b6472">
+    <rect x="66" y="150" width="96" height="14"/>
+    <rect x="58" y="136" width="112" height="14"/>
+    <rect x="58" y="122" width="112" height="14"/>
+    <rect x="66" y="108" width="96" height="14"/>
+  </g>
+  <!-- chest -->
+  <rect x="96" y="136" width="36" height="28" fill="#f2f4f8"/>
+  <!-- front paws -->
+  <g fill="#8a93a3">
+    <rect x="66" y="164" width="24" height="10"/>
+    <rect x="138" y="164" width="24" height="10"/>
+  </g>
+
+  <!-- head -->
+  <g fill="#5b6472">
+    <rect x="74" y="34" width="80" height="14"/>
+    <rect x="66" y="48" width="96" height="14"/>
+    <rect x="66" y="62" width="96" height="14"/>
+    <rect x="66" y="76" width="96" height="14"/>
+    <rect x="74" y="90" width="80" height="14"/>
+  </g>
+  <!-- ears -->
+  <g fill="#5b6472">
+    <rect x="70" y="20" width="16" height="14"/>
+    <rect x="142" y="20" width="16" height="14"/>
+  </g>
+  <g fill="#e8a0b4">
+    <rect x="74" y="24" width="8" height="6"/>
+    <rect x="146" y="24" width="8" height="6"/>
+  </g>
+
+  <!-- face patch -->
+  <rect x="88" y="52" width="52" height="38" fill="#f2f4f8" opacity="0.12"/>
+
+  <!-- eyes: open -->
+  <g class="eyes-open" fill="#1f2430">
+    <rect x="86" y="60" width="10" height="12"/>
+    <rect x="132" y="60" width="10" height="12"/>
+  </g>
+  <!-- eyes: closed (blinks) -->
+  <g class="eyes-closed" fill="#1f2430">
+    <rect x="86" y="66" width="10" height="4"/>
+    <rect x="132" y="66" width="10" height="4"/>
+  </g>
+  <!-- nose + mouth -->
+  <rect x="113" y="72" width="8" height="6" fill="#e8a0b4"/>
+  <rect x="105" y="82" width="4" height="4" fill="#3a4150"/>
+  <rect x="119" y="82" width="4" height="4" fill="#3a4150"/>
+  <!-- whiskers -->
+  <g fill="#8a93a3">
+    <rect x="66" y="72" width="14" height="3"/>
+    <rect x="148" y="72" width="14" height="3"/>
+    <rect x="66" y="80" width="14" height="3"/>
+    <rect x="148" y="80" width="14" height="3"/>
+  </g>
+
+  <!-- floating zZz -->
+  <g font-family="monospace" font-weight="bold">
+    <text class="z1" x="176" y="60" font-size="16" fill="#8a93a3">z</text>
+    <text class="z2" x="190" y="46" font-size="20" fill="#9aa4b2">Z</text>
+    <text class="z3" x="200" y="30" font-size="24" fill="#aab3c2">z</text>
+  </g>
+</svg>
