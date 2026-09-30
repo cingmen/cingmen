@@ -71,7 +71,13 @@
 
 ![streak](https://streak-stats.demolab.com?user=cingmen&theme=tokyonight&hide_border=true&v=1)
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cingmen&theme=tokyonight&hide_border=true&area=true&v=1)
+![summary cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cingmen&theme=tokyonight&v=1)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cingmen&theme=tokyonight&v=1" height="140" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cingmen&theme=tokyonight&v=1" height="140" alt="most commit language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cingmen&theme=tokyonight&v=1" height="140" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cingmen&theme=tokyonight&v=1" height="140" alt="productive time" />
 
 </div>
 
