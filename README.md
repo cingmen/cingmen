@@ -1,8 +1,8 @@
 <div align="center">
 
 ```
-   /\_/\     J O E S A V I T   D
-  ( o.o )    codename: CINGMEN
+   /\_/\     J O E S A V I T   D   
+  ( o.o )    codename: CINGMEN     
    > ^ <     web builder since 2016
 ```
 
@@ -55,8 +55,8 @@ warnanya ikut tema</sub>
   <img height="130" alt="streak stats" src="https://streak-stats.demolab.com?user=cingmen&theme=default&hide_border=true&height=130&v=3" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cingmen&theme=tokyonight&v=3" />
-  <img height="130" alt="profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cingmen&theme=default&v=3" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cingmen&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&v=1" />
+  <img height="150" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=cingmen&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&v=1" />
 </picture>
 
 </div>
@@ -75,4 +75,12 @@ warnanya ikut tema</sub>
 
 </div>
 
-<!-- >> end of log — cat out. 🐈 -->
+---
+
+<div align="center">
+
+![terakhir diupdate](https://img.shields.io/github/last-commit/cingmen/cingmen/main?style=flat&label=terakhir%20diupdate&v=1)
+
+<sub>⏱ otomatis ter-update tiap push · terima kasih sudah mampir 🐈</sub>
+
+</div>
