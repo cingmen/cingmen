@@ -17,6 +17,7 @@
 *manusia yang suka bikin hal baru — exploring since 2014* 🐈
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&width=500&height=50&lines=Jack+of+All+Codes%2C+Master+of+Some+%F0%9F%A7%EA;Pixel+%26+Packet+Wrangler+%F0%9F%A4%A0;Bug+Creator+%26+Problem+Solver+%F0%9F%90%9B;Poet+in+the+Terminal+%F0%9F%93%9C;Ctrl+%2B+Alt+%2B+Everything+%E2%9A%A1;Santai+tapi+shipping+%F0%9F%9A%80)](https://github.com/cingmen)
+
 **🎯 misi berjalan**
 
 - [ ] 🚀 ship side-project berikutnya
