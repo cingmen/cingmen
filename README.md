@@ -1,9 +1,9 @@
 <div align="center">
 
 ```
-   /\_/\                           
+    /\_/\                          
   ( o.o )    codename: CINGMEN   
-     > ^ <   things builder since 2016
+     > ^ <    things builder since 2016
 ```
 
 </div>
@@ -35,9 +35,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-</div>
-<div align="center">
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+</div>
+
+<div align="center">
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![followers](https://img.shields.io/github/followers/cingmen?label=followers&style=flat&logo=github&v=1)
 ![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcingmen&query=%24.public_repos&label=repos&logo=github&style=flat&v=2)
