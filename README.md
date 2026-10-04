@@ -8,9 +8,9 @@
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="75%" valign="top">
 
 ### 👋 halo, 
 
@@ -19,18 +19,13 @@
 <br>
 
 <a href="https://github.com/cingmen">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Jack+of+All+Codes%2C+Master+of+Some+%F0%9F%A7%EA;Pixel+%26+Packet+Wrangler+%F0%9F%A4%A0;Bug+Creator+%26+Problem+Solver+%F0%9F%90%9B;Poet+in+the+Terminal+%F0%9F%93%9C;Ctrl+%2B+Alt+%2B+Everything+%E2%9A%A1;Santai+tapi+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&width=500&height=50&lines=Jack+of+All+Codes%2C+Master+of+Some+%F0%9F%A7%EA;Pixel+%26+Packet+Wrangler+%F0%9F%A4%A0;Bug+Creator+%26+Problem+Solver+%F0%9F%90%9B;Poet+in+the+Terminal+%F0%9F%93%9C;Ctrl+%2B+Alt+%2B+Everything+%E2%9A%A1;Santai+tapi+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </td>
-<td valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
-<div style="min-width: 200px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cingmen/cingmen/main/assets/pixel-cat.svg?v=2" />
-    <img alt="pixel cat" src="https://raw.githubusercontent.com/cingmen/cingmen/main/assets/pixel-cat.svg?v=2" width="200" />
-  </picture>
-</div>
+<img alt="pixel cat" src="https://raw.githubusercontent.com/cingmen/cingmen/main/assets/pixel-cat.svg?v=2" width="180" />
 
 </td>
 </tr>
