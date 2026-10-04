@@ -1,29 +1,28 @@
 <div align="center">
 
 ```
-   /\_/\     J O E S A V I T   D   
+   /\_/\                           
   ( o.o )    codename: CINGMEN     
-   > ^ <     web builder since 2016
+   > ^ <     things builder since 2016
 ```
 
 </div>
 
 <table>
   <tr>
-    <td width="66%" valign="top">
+    <td width="75%" valign="top">
 
-### 👋 halo, saya Joesavit
+### 👋 halo, 
 
-*kucing yang suka bikin web — on a mission since 2016* 🐈
+*manusia yang suka bikin hal baru — exploring since 2014* 🐈
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39D353&center=true&vCenter=true&width=440&lines=Full-stack+Explorer+%F0%9F%94%AD;HTML+Hacker+%26+LaTeX+Artisan+%F0%9F%93%84;Santai+tapi+shipping+%F0%9F%90%88)](https://github.com/cingmen)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&width=500&height=50&lines=Jack+of+All+Codes%2C+Master+of+Some+%F0%9F%A7%EA;Pixel+%26+Packet+Wrangler+%F0%9F%A4%A0;Bug+Creator+%26+Problem+Solver+%F0%9F%90%9B;Poet+in+the+Terminal+%F0%9F%93%9C;Ctrl+%2B+Alt+%2B+Everything+%E2%9A%A1;Santai+tapi+shipping+%F0%9F%9A%80)](https://github.com/cingmen)
 **🎯 misi berjalan**
 
-- [ ] 🚀 ship proyek side-project berikutnya
-- [ ] 🌱 belajar hal random, terus dipakai juga
+- [ ] 🚀 ship side-project berikutnya
+- [ ] 🌱 belajar hal random, coba mengaplikasikannya
 </td>
-<td width="34%" valign="top">
+<td width="25%" valign="top">
 
 <div align="center">
 
@@ -31,10 +30,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cingmen/cingmen/main/assets/pixel-cat.svg?v=2" />
   <img alt="pixel cat" src="https://raw.githubusercontent.com/cingmen/cingmen/main/assets/pixel-cat.svg?v=2" width="200" />
 </picture>
-
-<sub>ekornya goyang sendiri ·
-warnanya ikut tema</sub>
-
 </div>
 </td>
   </tr>
@@ -63,7 +58,7 @@ warnanya ikut tema</sub>
 
 ---
 
-### 🧰 perkakas
+### 🧰 Tools
 
 <div align="center">
 
@@ -72,15 +67,7 @@ warnanya ikut tema</sub>
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
 ![terakhir diupdate](https://img.shields.io/github/last-commit/cingmen/cingmen/main?style=flat&label=terakhir%20diupdate&v=1)
 
-<sub>⏱ otomatis ter-update tiap push · terima kasih sudah mampir 🐈</sub>
 
 </div>
