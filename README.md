@@ -33,27 +33,6 @@
 
 ---
 
-### 📊 statistik
-
-<div align="center">
-
-![followers](https://img.shields.io/github/followers/cingmen?label=followers&style=flat&logo=github&v=1)
-![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcingmen&query=%24.public_repos&label=repos&logo=github&style=flat&v=2)
-![stars](https://img.shields.io/github/stars/cingmen?affiliations=OWNER&label=stars&style=flat&logo=github&v=1)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=cingmen&theme=tokyonight&hide_border=true&height=130&v=3" />
-  <img height="130" alt="streak stats" src="https://streak-stats.demolab.com?user=cingmen&theme=default&hide_border=true&height=130&v=3" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cingmen&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&v=1" />
-  <img height="150" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=cingmen&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&v=1" />
-</picture>
-
-</div>
-
----
-
 ### 🧰 Tools
 
 <div align="center">
@@ -63,6 +42,10 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![followers](https://img.shields.io/github/followers/cingmen?label=followers&style=flat&logo=github&v=1)
+![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcingmen&query=%24.public_repos&label=repos&logo=github&style=flat&v=2)
+![stars](https://img.shields.io/github/stars/cingmen?affiliations=OWNER&label=stars&style=flat&logo=github&v=1)
+
 ![terakhir diupdate](https://img.shields.io/github/last-commit/cingmen/cingmen/main?style=flat&label=terakhir%20diupdate&v=1)
 
 
