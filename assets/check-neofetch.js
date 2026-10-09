@@ -23,9 +23,21 @@ const ROOT = path.resolve(__dirname, '..');
 const BLOCK_FILE = path.join(__dirname, 'neofetch.txt');
 const README_FILE = path.join(ROOT, 'README.md');
 
-const INFO_COL = 22; // first column of the info text; the art owns columns 0..21
+const INFO_COL = 26; // first column of the info text; the art owns columns 0..25
 const SWATCH = '\u2588';
 const MIN_ART_ROWS = 5;
+const BACKSLASH = String.fromCharCode(92);
+// A cat drawn in this style is symmetric: every row mirrors its own centre,
+// with these glyphs swapping for their partner on the other side.
+const MIRROR = { '(': ')', '/': BACKSLASH, '<': '>' };
+const symmetric = (s) => {
+  for (let i = 0, j = s.length - 1; i <= j; i++, j--) {
+    const a = s[i], b = s[j];
+    if (a === b || MIRROR[a] === b || MIRROR[b] === a) continue;
+    return false;
+  }
+  return true;
+};
 
 const problems = [];
 const read = (p) => fs.readFileSync(p, 'utf8').replace(/\r\n/g, '\n');
@@ -45,6 +57,11 @@ lines.forEach((line, i) => {
 
 const artRows = lines.filter((l) => l.length > INFO_COL && l.slice(0, INFO_COL).trim() !== '');
 if (artRows.length < MIN_ART_ROWS) problems.push(`expected the cat art to span >= ${MIN_ART_ROWS} rows, found ${artRows.length}`);
+artRows.forEach((line, i) => {
+  if (!symmetric(line.slice(0, INFO_COL).trim())) {
+    problems.push(`art row ${i + 1} is not mirror-symmetric — the cat looks lopsided: ${JSON.stringify(line.slice(0, INFO_COL).trim())}`);
+  }
+});
 if (!lines.some((l) => l.includes(SWATCH))) problems.push('missing the colour-swatch rows');
 
 const readme = read(README_FILE);
