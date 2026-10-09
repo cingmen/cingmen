@@ -1,4 +1,3 @@
-```text
                       cingmen@github
                       ────────────────────────
                       OS:         Linux Mint 22.1 x86_64
@@ -18,12 +17,3 @@
 
                       ████ ████ ████ ████ ████ ████ ████ ████
                       ████ ████ ████ ████ ████ ████ ████ ████
-```
-
----
-
-<div align="center">
-
-![terakhir diupdate](https://img.shields.io/github/last-commit/cingmen/cingmen/main?style=flat&label=terakhir%20diupdate&v=2)
-
-</div>

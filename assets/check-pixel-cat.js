@@ -1,8 +1,8 @@
 /**
  * Headless render-check for cingmen/assets/pixel-cat.svg.
  *
- * Usage:
- *   node check-pixel-cat.js <url-or-file-url>
+ * Usage (from the repository root):
+ *   node assets/check-pixel-cat.js <url-or-file-url>
  *     - <url>            : any URL serving the SVG (e.g. the live raw.githubusercontent URL)
  *     - (no argument)    : prints instructions, because plain `node` cannot open the
  *                          workspace file:// page outside a real browser.
@@ -21,10 +21,10 @@ const EXPECTED_ORBITS = 3;
 
 const target = process.argv[2];
 if (!target) {
-  console.log('Usage: node check-pixel-cat.js <url-or-file-url>');
-  console.log('  e.g. node check-pixel-cat.js https://raw.githubusercontent.com/cingmen/cingmen/main/assets/pixel-cat.svg');
+  console.log('Usage: node assets/check-pixel-cat.js <url-or-file-url>');
+  console.log('  e.g. node assets/check-pixel-cat.js https://raw.githubusercontent.com/cingmen/cingmen/main/assets/pixel-cat.svg');
   console.log('For the local file inside Freebuff preview, paste the snippet printed by:');
-  console.log('  node check-pixel-cat.js --snippet');
+  console.log('  node assets/check-pixel-cat.js --snippet');
   process.exit(0);
 }
 
