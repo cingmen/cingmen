@@ -1,9 +1,1 @@
-<table width="100%" border="0"><tr><td width="50%" align="left" valign="middle"><pre>
-codename: CINGMEN          
-things builder since 2016  
-      </pre></td><td width="50%" align="right" valign="middle"><pre>
-　　　／l、   
-　　 ( ﾟ､ ｡ ﾌ  
-　　 ｣　 "ヽ  
-旦 ()ιし(~)～
-      </pre></td></tr></table>
+<table width="100%"><tr><td align="left" valign="top"><p align="left"><code>codename: CINGMEN</code><br><code>things builder since 2016</code></p></td><td align="right" valign="top"><p align="right"><code>　　　／l、 ㅤ</code><br><code>　　 ( ﾟ､ ｡ ﾌㅤ</code><br><code>　　 ｣　 "ヽ ㅤ</code><br><code>旦 ()ιし(~)～</code></p></td></tr></table>
