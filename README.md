@@ -1,12 +1,9 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <pre style="margin: 0; text-align: left;">
+<table width="100%" border="0"><tr><td align="left" valign="middle"><pre>
 codename: CINGMEN          
 things builder since 2016  
-  </pre>
-  <pre style="margin: 0; text-align: right;">
+      </pre></td><td align="right" valign="middle"><pre>
 　　　／l、   
 　　 ( ﾟ､ ｡ ﾌ  
 　　 ｣　 "ヽ  
 旦 ()ιし(~)～
-  </pre>
-</div>
+      </pre></td></tr></table>
