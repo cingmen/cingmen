@@ -1,1 +1,4 @@
-<table width="100%"><tr><td align="left" valign="top"><p align="left"><code>codename: CINGMEN</code><br><code>things builder since 2016</code></p></td><td align="right" valign="top"><p align="right"><code>　　　／l、 ㅤ</code><br><code>　　 ( ﾟ､ ｡ ﾌㅤ</code><br><code>　　 ｣　 "ヽ ㅤ</code><br><code>旦 ()ιし(~)～</code></p></td></tr></table>
+codename: CINGMEN                                   　　　／l、 ㅤ
+things builder since 2016                          　　 ( ﾟ､ ｡ ﾌㅤ
+                                                     　 ｣　 "ヽ ㅤ
+                                                     旦 ()ιし(~)～
