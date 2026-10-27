@@ -1,7 +1,7 @@
-<table width="100%" border="0"><tr><td align="left" valign="middle"><pre>
+<table width="100%" border="0"><tr><td width="50%" align="left" valign="middle"><pre>
 codename: CINGMEN          
 things builder since 2016  
-      </pre></td><td align="right" valign="middle"><pre>
+      </pre></td><td width="50%" align="right" valign="middle"><pre>
 　　　／l、   
 　　 ( ﾟ､ ｡ ﾌ  
 　　 ｣　 "ヽ  
